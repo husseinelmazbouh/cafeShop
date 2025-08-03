@@ -21,7 +21,6 @@ It is designed with a clean aesthetic, smooth navigation, and full responsivenes
 - **HTML5** – for semantic structure
 - **CSS3** – for styling and layout
 - **Bootstrap 5** – for responsive design and components
-- **JavaScript (optional)** – for interactive behavior
 - **Google Fonts** – for typography
 
 ---
@@ -47,4 +46,5 @@ my-coffee-shop/
 
 **Hussein El Mazbouh**  
 🔗 [My Portfolio](https://husseinelmazbouh.github.io/portfolio1/)
+
 🌐 [My Portfolio](https://husseinelmazbouh.github.io/portfolio1/)
