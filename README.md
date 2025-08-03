@@ -1,7 +1,6 @@
 # ☕ My Coffee Shop Website
 
-Welcome to the official website project for **My Coffee Shop**, a modern, mobile-friendly, and responsive multi-page website built using **HTML**, **CSS**, **Bootstrap**, and a bit of **JavaScript**.
-
+Welcome to the official website project for **My Coffee Shop**, a modern, mobile-friendly, and responsive multi-page website built using **HTML**, **CSS**, **Bootstrap**.
 ---
 
 ## 📄 Project Description
@@ -48,3 +47,4 @@ my-coffee-shop/
 🔗 [My Portfolio](https://husseinelmazbouh.github.io/portfolio1/)
 
 🌐 [My Portfolio](https://husseinelmazbouh.github.io/portfolio1/)
+
